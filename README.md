@@ -14,12 +14,22 @@ For those using macos use pip3
 
 <img width="1470" alt="Screenshot 2024-12-16 at 3 33 28 AM" src="https://github.com/user-attachments/assets/cf62b4ab-4e9f-4ea5-84a8-0d9fd1e61d91" />
 
+<br>
+<br>
+<br>
 
 
 
 <img width="1470" alt="Screenshot 2024-12-16 at 3 52 45 AM" src="https://github.com/user-attachments/assets/a60430a9-1b7f-4e74-a8dd-d364aa44ef0b" />
+<br>
+<br>
+<br>
+
 
 Running it:
+<br>
+<br>
+<br>
 
 
 <img width="1470" alt="Screenshot 2024-12-16 at 3 55 28 AM" src="https://github.com/user-attachments/assets/f2452034-183e-4e63-9b7f-870f7ffaab6d" />
