@@ -5,7 +5,8 @@ Clone this repo to your local syestem using : git clone
 
 Dependecies need to installed before running this:
 
-1.pip3 install cryptography or pip install cryptography
+1. pip3 install cryptography or pip install cryptography
+
 
 2. pip3 install bcrypt
    
